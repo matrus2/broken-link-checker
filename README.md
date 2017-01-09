@@ -1,6 +1,6 @@
 
 
-Crawl page to seek broken links. It still require some improvements, but may be use as well in this shape.
+Crawl page to seek broken links. It still requires some improvements, but may be used in this shape.
 
 ```
 Usage:
